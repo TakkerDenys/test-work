@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "62f6d461da5aec8ccf7781bc"
+  },
+  "user_id": "62fac73a1b355dd3f9f62618",
+  "title": "Second event",
+  "description": "This is second event",
+  "start": {
+    "$date": {
+      "$numberLong": "1660348800000"
+    }
+  },
+  "end": {
+    "$date": {
+      "$numberLong": "1660780800000"
+    }
+  }
+}]
